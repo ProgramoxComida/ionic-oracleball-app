@@ -1,0 +1,12 @@
+{
+  "name": "Oracle Ball App",
+  "app_id": "0f87fdb1",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
+}
